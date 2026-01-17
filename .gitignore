@@ -31,6 +31,10 @@ credentials.yaml
 **/credentials.yaml
 !**/credentials_example.yaml
 
+# Environment variables
+.env
+.env.local
+
 .*/
 !.gitignore
 !.github/
